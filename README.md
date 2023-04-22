@@ -16,7 +16,7 @@ For a detailed walkthrough, please view the source code in order from:
 1. [Data Preparation & Cleaning](https://github.com/YuQuanang/Anime-Score-Prediction-SC1015-mini-project-/blob/f36a31005ee0257ea072e69145b5554ec99bb4b1/Data%20Preparation%20&%20Cleaning.ipynb)
 2. [Exploratory Data Analysis & Visualization](https://github.com/YuQuanang/Anime-Score-Prediction-SC1015-mini-project-/blob/942a58f16c219fe2fe9f3a187b2bba4faa844e42/Exploratory%20Data%20Analysis%20&%20Visualization.ipynb)
 3. [Linear Regressions](https://github.com/YuQuanang/Anime-Score-Prediction-SC1015-mini-project-/blob/d0dc1913661768163d93f43d5ea47685ee591bee/Regressions.ipynb)
-4. [Machine Learning - Classification](https://github.com/YuQuanang/Anime-Score-Prediction-SC1015-mini-project-/blob/d0dc1913661768163d93f43d5ea47685ee591bee/Machine%20Learning%20-%20Classification.ipynb)
+4. [Machine Learning - Classification](https://github.com/YuQuanang/Anime-Score-Prediction-SC1015-mini-project-/blob/c130583d2afb76dc9837841502723c156c10982e/Machine%20Learning%20-%20Classification.ipynb)
 5. [Machine Learing - Clustering](https://github.com/YuQuanang/Anime-Score-Prediction-SC1015-mini-project-/blob/515b305e7ab9f803289513868d7dd7d5649a5c6e/Machine%20Learning%20-%20Clustering.ipynb)
   
 ## Contributors
@@ -38,7 +38,11 @@ For a detailed walkthrough, please view the source code in order from:
 
 ## Conclusion
 
-- 
+- Watch rate, start season year, rating, and start season year, season and popularity are important factors in finding which anime is of good quality and enjoyable to the viewer
+- Some of the Machine Learning models such as classification havecertain flaws that may cause its results to hold less weight
+- Good quality animes are typically created between 2020 and 2022
+- They are usually R rated anime movies whose story is adapted from mangas typically  in the genre of adventure or drama
+
 
 ## What did we learn from this project?
 
