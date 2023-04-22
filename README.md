@@ -38,8 +38,9 @@ For a detailed walkthrough, please view the source code in order from:
 
 ## Conclusion
 
+- Random forest and polynomial regression are the better models to use compared to the other models in classification and regression respectively
 - Watch rate, start season year, rating, and start season year, season and popularity are important factors in finding which anime is of good quality and enjoyable to the viewer
-- Some of the Machine Learning models such as classification havecertain flaws that may cause its results to hold less weight
+- Some of the Machine Learning models such as classification havec ertain flaws that may cause its results to hold less weight
 - Good quality animes are typically created between 2020 and 2022
 - They are usually R rated anime movies whose story is adapted from mangas typically  in the genre of adventure or drama
 
