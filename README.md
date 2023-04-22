@@ -1,4 +1,6 @@
 # Anime-Score-Prediction-SC1015-mini-project
+<img width="659" alt="image" src="https://user-images.githubusercontent.com/92656053/233773727-2299fd9e-a5bb-4fac-9e99-e2c0e2fb3521.png">
+
 ## About
 
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on anime from [MyAnimeList API dataset](https://myanimelist.net/blog.php?eid=835707). 
