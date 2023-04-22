@@ -3,6 +3,12 @@
 
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on anime from [MyAnimeList API dataset](https://myanimelist.net/blog.php?eid=835707). 
 
+Cleaned Dataset used: 
+1. anime_details_cleaned+genres.csv
+2. anime_details_cleaned
+3. tree.dot
+4. tree.png
+
 For a detailed walkthrough, please view the source code in order from:
 
 1. [Data Preparation & Cleaning](https://github.com/YuQuanang/Anime-Score-Prediction-SC1015-mini-project-/blob/f36a31005ee0257ea072e69145b5554ec99bb4b1/Data%20Preparation%20&%20Cleaning.ipynb)
@@ -39,6 +45,8 @@ For a detailed walkthrough, please view the source code in order from:
 - Polynomial and Ridge Regression 
 - API Usage
 - Learn to open JSON array to form useful information
+- Using of GraphViz to display tree table
+- Conversion of .dot file to .png file
 - Collaborating using GitHub
 
 ## References
