@@ -6,10 +6,10 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 For a detailed walkthrough, please view the source code in order from:
 
 1. [Data Preparation & Cleaning](https://github.com/YuQuanang/Anime-Score-Prediction-SC1015-mini-project-/blob/f36a31005ee0257ea072e69145b5554ec99bb4b1/Data%20Preparation%20&%20Cleaning.ipynb)
-2. [Exploratory Data Analysis & Visualization](https://github.com/nicklimmm/movie-analysis/blob/main/data-visualization.ipynb)
-3. [Linear Regressions](https://github.com/nicklimmm/movie-analysis/blob/main/data-resampling-and-splitting.ipynb)
-4. [Machine Learning - Classification](https://github.com/nicklimmm/movie-analysis/blob/main/logistic-regression.ipynb)
-5. [Machine Learing - Clustering](https://github.com/nicklimmm/movie-analysis/blob/main/neural-network.ipynb)
+2. [Exploratory Data Analysis & Visualization](https://github.com/YuQuanang/Anime-Score-Prediction-SC1015-mini-project-/blob/main/Exploratory%20Data%20Analysis%20%26%20Visualization.ipynb)
+3. [Linear Regressions](https://github.com/YuQuanang/Anime-Score-Prediction-SC1015-mini-project-/blob/515b305e7ab9f803289513868d7dd7d5649a5c6e/Regressions.ipynb)
+4. [Machine Learning - Classification](https://github.com/YuQuanang/Anime-Score-Prediction-SC1015-mini-project-/blob/main/Machine%20Learning%20-%20Classification.ipynb)
+5. [Machine Learing - Clustering](https://github.com/YuQuanang/Anime-Score-Prediction-SC1015-mini-project-/blob/515b305e7ab9f803289513868d7dd7d5649a5c6e/Machine%20Learning%20-%20Clustering.ipynb)
   
 ## Contributors
 
