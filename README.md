@@ -5,7 +5,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 For a detailed walkthrough, please view the source code in order from:
 
-1. [Data Preparation & Cleaning](https://github.com/nicklimmm/movie-analysis/blob/main/data-extraction.ipynb)
+1. [Data Preparation & Cleaning](https://github.com/YuQuanang/Anime-Score-Prediction-SC1015-mini-project-/blob/f36a31005ee0257ea072e69145b5554ec99bb4b1/Data%20Preparation%20&%20Cleaning.ipynb)
 2. [Exploratory Data Analysis & Visualization](https://github.com/nicklimmm/movie-analysis/blob/main/data-visualization.ipynb)
 3. [Linear Regressions](https://github.com/nicklimmm/movie-analysis/blob/main/data-resampling-and-splitting.ipynb)
 4. [Machine Learning - Classification](https://github.com/nicklimmm/movie-analysis/blob/main/logistic-regression.ipynb)
