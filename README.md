@@ -40,9 +40,15 @@ For a detailed walkthrough, please view the source code in order from:
 
 - Random forest and polynomial regression are the better models to use compared to the other models in classification and regression respectively
 - Watch rate, start season year, rating, and start season year, season and popularity are important factors in finding which anime is of good quality and enjoyable to the viewer
-- Some of the Machine Learning models such as classification havec ertain flaws that may cause its results to hold less weight
-- Good quality animes are typically created between 2020 and 2022
-- They are usually R rated anime movies whose story is adapted from mangas typically  in the genre of adventure or drama
+- Kmeans allowed us to understand that genre, media type and source material are the 3 other factors that allowed us to identify a good quality anime
+- Some of the Machine Learning models such as classification have certain flaws that may cause its results to hold less weight
+
+## Similarities of a good anime (Detailed findings)
+- Created between 2020 and 2022
+- R rated anime 
+- Anime presented in the form of a movie
+- Anime story is adapted from mangas
+- Genre of anime: Adventure or Drama
 
 
 ## What did we learn from this project?
