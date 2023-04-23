@@ -21,7 +21,7 @@ For a detailed walkthrough, please view the source code in order from:
   
 ## Contributors
 
-- @kevinpxq - Data Preparation & Cleaning, Machine Learing - Clustering
+- @kevinpxq - Data Preparation & Cleaning, Exploratory Data Analysis & Visualization, Machine Learing - Clustering
 - @JYL480 - Exploratory Data Analysis & Visualization, Linear Regressions
 - @YuQuanang - Machine Learning - Classification, Exploratory Data Analysis & Visualization
 
@@ -69,3 +69,4 @@ For a detailed walkthrough, please view the source code in order from:
 1) <https://towardsdatascience.com/how-to-visualize-a-decision-tree-from-a-random-forest-in-python-using-scikit-learn-38ad2d75f21c>
 2) <https://www.datacamp.com/tutorial/random-forests-classifier-python?utm_adgroupid=143216588577&utm_device=c&utm_keyword=&utm_matchtype=&utm_network=g&utm_adpostion=&utm_creative=655068781125&utm_targetid=dsa-1947282172981&utm_loc_interest_ms=&utm_loc_physical_ms=9062538>
 3) <https://www.upgrad.com/blog/types-of-regression-models-in-machine-learning/>
+4) <https://www.datacamp.com/tutorial/k-means-clustering-python?utm_source=google&utm_medium=paid_search&utm_campaignid=19589720821&utm_adgroupid=143216588577&utm_device=c&utm_keyword=&utm_matchtype=&utm_network=g&utm_adpostion=&utm_creative=655068781125&utm_targetid=aud-299261629574:dsa-1947282172981&utm_loc_interest_ms=&utm_loc_physical_ms=9062512&utm_content=dsa~page~community-tuto&utm_campaign=230119_1-sea~dsa~tutorials_2-b2c_3-row-p1_4-prc_5-na_6-na_7-le_8-pdsh-go_9-na_10-na_11-na-aprfs23&gclid=CjwKCAjw6IiiBhAOEiwALNqncf6iG3FNrLjx7DuSn607fX2O5idGXoWWaDMi_Tp-0BIgmOYNU7WcdBoC6V8QAvD_BwE>
