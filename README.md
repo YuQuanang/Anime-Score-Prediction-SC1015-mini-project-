@@ -62,6 +62,9 @@ For a detailed walkthrough, please view the source code in order from:
 - Conversion of .dot file to .png file
 - Collaborating using GitHub
 
+## Slides Link
+[Google Slides presentation](https://docs.google.com/presentation/d/1tIpPENCMP_CeLAuiCB8MOPKDCFPWncM32MjK3p56_Zc/edit?usp=sharing)
+
 ## References
 1) <https://towardsdatascience.com/how-to-visualize-a-decision-tree-from-a-random-forest-in-python-using-scikit-learn-38ad2d75f21c>
 2) <https://www.datacamp.com/tutorial/random-forests-classifier-python?utm_adgroupid=143216588577&utm_device=c&utm_keyword=&utm_matchtype=&utm_network=g&utm_adpostion=&utm_creative=655068781125&utm_targetid=dsa-1947282172981&utm_loc_interest_ms=&utm_loc_physical_ms=9062538>
