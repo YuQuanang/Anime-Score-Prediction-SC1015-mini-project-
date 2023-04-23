@@ -63,7 +63,7 @@ For a detailed walkthrough, please view the source code in order from:
 - Collaborating using GitHub
 
 ## Slides Link
-[Google Slides presentation](https://docs.google.com/presentation/d/1tIpPENCMP_CeLAuiCB8MOPKDCFPWncM32MjK3p56_Zc/edit?usp=sharing)
+[Google Slides presentation](https://github.com/YuQuanang/Anime-Score-Prediction-SC1015-mini-project-/blob/f2ed102a38e6bf9c17daf0890994e9eb982ad765/SC1015%20-%20MiniProject%20(1).pdf)
 
 ## References
 1) <https://towardsdatascience.com/how-to-visualize-a-decision-tree-from-a-random-forest-in-python-using-scikit-learn-38ad2d75f21c>
